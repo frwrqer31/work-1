@@ -87,7 +87,7 @@ oEditor.CreateSphere(
 
  Для этого задания на github был создан новый репозиторий. С помощью команд, которые вводились в командной строке Git Bash был скопирован шаблон отчета и перенесен в мой репозиторий.
 
-![Screenshot]("https://github.com/frwrqer31/work-1/blob/main/Screenshot%202025-03-30%20153445.png")
+![Screenshot](https://github.com/frwrqer31/work-1/blob/main/Screenshot%202025-03-30%20153445.png)
 
 ## Выводы
 
